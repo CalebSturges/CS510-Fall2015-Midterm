@@ -1,4 +1,4 @@
-from juliaset import JuliaSet
+from attractor import Attractor
 from nose import with_setup
 
 ###
